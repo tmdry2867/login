@@ -1,0 +1,13 @@
+body{
+    align-items: center;
+}
+.login-div{
+    width: 700px;
+    height: 1400px;
+    background-color: aqua;    
+}
+a{
+    width: 10px;
+    height: 10px;
+    background-color: black;
+}
