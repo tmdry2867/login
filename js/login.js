@@ -10,7 +10,7 @@ function handleLogin(event){
     const pw = event.target[1].value;
     const r_pw = event.target[2].value;
 
-    
+    location.href = "file:///C:/Users/Default/Documents/login/board.html"
 }
 
 loginForm.addEventListener("submit", handleLogin);
